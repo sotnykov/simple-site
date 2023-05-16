@@ -1,0 +1,27 @@
+.wrapper {
+  margin: 0 400px;
+}
+
+.header {
+  background: #EEEFF1;
+}
+
+.menu-link+.menu-link {
+  margin-left: 40px;
+}
+
+.menu-link {
+  display: inline-block;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.header-link {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #000;
+}
+
+.header-link:hover {
+  color: #34547A;
+}
