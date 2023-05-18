@@ -24,6 +24,7 @@ body {
 }
 
 .header-link {
+  letter-spacing: .1em;
   color: #000;
   text-decoration: none;
   text-transform: uppercase;
@@ -31,7 +32,7 @@ body {
 
 .header-link:hover {
   color: #34547A;
-  font-weight: 500;
+  transition: all .3s;
 }
 
 .design {
